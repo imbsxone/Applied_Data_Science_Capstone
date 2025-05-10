@@ -11,3 +11,15 @@ SpaceX is founded by Elon Musk in 2002. Its Falcon 9 rocket, known for its reusa
 1. How do variables; payload mass, amount of lights, launch site and orbit affect the success/ fail rate of first stage landing.
 2. Whether rate of successful landing improve.
 3. What algorithm can be applied for binary classification.
+
+# Applied Methodology
+
+1. Data Collection includes; 1) Using SpaceX Rest API and Web Scrapping Wikipedia,
+2. Applied Data Wranging; 1) Filter data, 2) Dealing with Missing Values and 3) One Hot Encoding for Binary Classification,
+
+# Deployment of Data Analysis
+
+1. Applied Exploratory Data Analysis (EDA) via Visualisation and SQL.
+2. Applied Interactive Visual Analytics via Folium and Plotly Dash.
+3. Applied Predictive Analysis via Classification Models.
+
